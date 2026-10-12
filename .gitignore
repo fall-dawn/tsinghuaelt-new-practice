@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+.env
+.env.*
+*.log
+*.zip
+报告诊断.md
+*处理报告*.json
+*题目诊断*.json

@@ -1,0 +1,12 @@
+{
+  "name": "tsinghuaelt-new-practice",
+  "version": "1.2.2",
+  "private": true,
+  "description": "清华社英语在线新版自动练习油猴脚本",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "check": "node --check tsinghuaelt-new.user.js",
+    "test": "node --test test/practice.test.cjs test/vmic.test.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
